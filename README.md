@@ -8,6 +8,15 @@ This repo provides a basic outline for anyone looking to try Kent Beck's TCR.
 - npm test
 - Try again or start over.
 
+## Requirements
+
+[But, it's the requirements.](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt)
+
+## Acknowledgements
+
+Gildedrose copied from :
+
+https://github.com/emilybache/GildedRose-Refactoring-Kata.git
 
 ## Using this repo is simple 
 *  Fork It
