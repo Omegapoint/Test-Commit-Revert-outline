@@ -2,6 +2,13 @@
 
 This repo provides a basic outline for anyone looking to try Kent Beck's TCR.
 
+## Workflow
+
+- Add new requirement and test.
+- npm test
+- Try again or start over.
+
+
 ## Using this repo is simple 
 *  Fork It
 * Clone your fork
@@ -10,7 +17,7 @@ This repo provides a basic outline for anyone looking to try Kent Beck's TCR.
 
 ## Contributing
 
-If you want to contribute, Thak You. There are two rules.
+If you want to contribute, Thank You. There are two rules.
 
 1. Make sure all your tests pass before submitting a pull request
 2. Please read the Contributor convenient https://www.contributor-covenant.org/version/1/4/code-of-conduct. If you have any complaints about how you have been treated while contributing to this project please DM @SamuelFare on twitter.
